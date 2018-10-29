@@ -21,4 +21,4 @@ end
 def using_size(array)
   array.size
 end
-puts using_reverse([1,2,3,4])
+using_reverse([1,2,3,4])
